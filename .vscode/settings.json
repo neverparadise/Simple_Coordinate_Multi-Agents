@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\KukJinKim\\Anaconda3\\envs\\mlagents\\python.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\KukJinKim\\Anaconda3\\Scripts\\activate.bat C:\\Users\\KukJinKim\\Anaconda3\\envs\\mlagents & conda activate mlagents"],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
